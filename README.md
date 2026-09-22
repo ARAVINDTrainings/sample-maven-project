@@ -1,3 +1,4 @@
+#This is a java application
 simple-java-maven-application
 
 This repository is for the
